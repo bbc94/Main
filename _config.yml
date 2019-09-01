@@ -109,8 +109,7 @@ analytics:
 author:
   name             : "BBC"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my brain.
-  I really want to you can get what you want from here"
+  bio              : "Welcome to my brain.\n  I really want to you can get what you want from here"
   location         : "South-KR"
   email            :
   links:
